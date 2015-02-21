@@ -1,0 +1,9 @@
+.sass-cache
+.tmp
+.suo
+.user
+node_modules
+packages
+YoMVC5/bower_components
+YoMVC5/bin
+YoMVC5/obj
